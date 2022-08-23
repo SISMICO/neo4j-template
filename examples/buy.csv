@@ -1,0 +1,10 @@
+ID_START,ID_END,Label
+1,5,Processor
+2,5,Processor
+2,6,Processor
+3,6,Processor
+4,5,Processor
+1,7,Storage
+2,9,Storage
+3,7,Storage
+4,8,Storage
